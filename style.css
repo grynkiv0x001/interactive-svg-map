@@ -1,0 +1,18 @@
+.active {
+  /* visibility: hidden; */
+}
+
+.description {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.new-class {
+  display: block;
+  height: 40px;
+  width: 40px;
+  background-color: black;
+  z-index: 100;
+}
